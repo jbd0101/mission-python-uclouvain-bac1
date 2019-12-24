@@ -1,4 +1,4 @@
-dev par Jean christophe bauduin et timour petit
+dev par Jean christophe bauduin
 le 30/10/19
 
 Tout est operationnelle, mais nous etions pas sur de bien comprendre ce que nous devions faire pour la partie dictionnaire, on a donc fait ce qu on croyait devoir faire.

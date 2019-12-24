@@ -1,4 +1,4 @@
-developpe par Jean-Christophe Bauduin  et Timmour petit (groupe 11.13)
+developpe par Jean-Christophe Bauduin
 le 23/10/19
 
 Possede toutes les fonctions comme demande.

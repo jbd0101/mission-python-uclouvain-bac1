@@ -1,4 +1,4 @@
-Developpe par : Jean-Christophe Bauduin et Timmour Petit (11.13)
+Developpe par : Jean-Christophe Bauduin
 le 16/10/19
 
 Comporte les 4 fonctions

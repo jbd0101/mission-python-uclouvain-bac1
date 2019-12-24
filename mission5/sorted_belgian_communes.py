@@ -1,4 +1,4 @@
-#developpe par jean-christophe bauduin et timmour petit (groupe 11.13)
+#developpe par jean-christophe bauduin
 # list of (most) Belgian communities, with coordinates according to a Mercator projection.
 import random,math
 all_communes = [("Aalst", (575061.8368696974, 5644396.819551783)),("Aalter", (531519.6775850406, 5659184.536941301)),\

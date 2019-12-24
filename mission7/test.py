@@ -1,4 +1,4 @@
-#dev par Jean-Christophe Bauduin et Aurian Begon
+#dev par Jean-Christophe Bauduin
 #le 6/11
 import search
 def test_open_ex1():

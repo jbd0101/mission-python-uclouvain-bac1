@@ -1,4 +1,4 @@
-#dev par Jean christophe bauduin et timour petit
+#dev par Jean christophe bauduin
 
 import difflib #uniquement pour l'amusemnt dans la partie recherche , entierement facultatif
 import re #utilise pour le split ameliore des listes

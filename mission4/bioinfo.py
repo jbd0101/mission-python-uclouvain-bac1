@@ -1,5 +1,5 @@
 """
-Developpe par : Jean-Christophe Bauduin et Timmour Petit (11.13)
+Developpe par : Jean-Christophe Bauduin
 """
 
 import re
